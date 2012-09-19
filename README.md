@@ -1,4 +1,0 @@
-skin
-====
-
-default HD Skin
